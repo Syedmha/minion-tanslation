@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+
+
+*
+{
+    font-family: 'Italianno', cursive;
+}
+body{
+    margin: 0rem;
+    font-size: x-large;
+    
+}
+textarea
+{
+    display: block;
+    text-align: left;
+    min-height: 6rem;
+    width: 60%;
+    margin: 0 auto;
+    font-size: 1rem;
+   margin-bottom: 2rem;
+}
+
+#btn {
+    font-size: 1rem;
+    margin: 1rem;
+    background-color: yellow;
+    border: none;
+    border-radius: 5px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    outline: inherit;
+    font-size: x-large;
+   
+  }
+  
+  #display {
+    border: 1px solid black;
+    min-height: 15vh;
+    width: 60%;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  header
+{
+    background-color: yellow;
+    padding: 1rem; 
+    text-align: center;
+    font-size: x-large;
+    margin-bottom: 5rem;
+
+
+}
+#bttn
+{
+    text-align: center;
+}
+
+footer {
+    background-color: yellow;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    width: 100%;
+    padding: 1vh 0;
+  }
+
+  #text-input
+  {
+      font-size: x-large;
+  }
+
+  
